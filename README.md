@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>Neoris</b> as QA Tester
 
-- 🌱 I’m currently learning **Selenium & Django**
+- 🌱 I’m currently learning **Selenium with Java**
 
 - 💬 Ask me about **Testing**
 
