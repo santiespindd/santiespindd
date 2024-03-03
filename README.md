@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santi</h1>
 <h3 align="center">A passionate Automation Tester in progress</h3>
 
-- 🔭 I’m currently working on **Neoris**
+- 🔭 I’m currently working on **Neoris** as Software Tester
 
-- 🌱 I’m currently learning **Cypress and Selenium with Java and Gradle**
-
-- 👯 I’m looking to collaborate on **Automation Projects**
-
-- 💬 Ask me about **Testing,Java,SQL**
+- 🌱 I have a degree in Information Technology at UTN FRSF
 
 - 📫 How to reach me **http://www.linkedin.com/in/santiespindola/**
 
