@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Neoris** as Software Tester
 
-- 🌱 I have a degree in Information Technology at UTN FRSF
-
+- 🌱 I have an Associate Degree in Information Technology from UTN FRSF
+  
 - 📫 How to reach me **http://www.linkedin.com/in/santiespindola/**
 
 <h3 align="left">Connect with me:</h3>
